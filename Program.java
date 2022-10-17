@@ -7,7 +7,7 @@
  * Copyright 2020 Jaime Martinez <jmartinez2022@ilg.cat>
  *
  * This is free software, licensed under the GNU General Public License v3.
- * See http://www.gnu.org/licenses/gpl.html for more information.
+ * See http://www.gnu.org/licenses/gpl.html for more information.212
  */
 package gitTerminal02;
 
@@ -45,7 +45,7 @@ public class Program {
 
 		Scanner in = new Scanner(System.in);
 
-		System.out.println("Enter the radius in meters.: ");
+		System.out.println("Enter the radius in meters: ");
 		double radi = in.nextDouble();
 
 		in.close();
